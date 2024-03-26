@@ -3,6 +3,7 @@ import Grid from "@mui/material/Grid";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import EmailIcon from "@mui/icons-material/Email";
+import TwitterIcon from "@mui/icons-material/Twitter";
 import "./Footer.css";
 
 const Footer = () => {
@@ -22,24 +23,32 @@ const Footer = () => {
             id="icon"
             className="pop-on-hover"
             sx={{ fontSize: 50 }}
-            onClick={(event) =>
-              (window.location.href =
-                "https://www.linkedin.com/in/chrisnastro/")
+            onClick={() =>
+            (window.location.href =
+              "https://www.linkedin.com/in/chrisnastro/")
             }
           />
           <GitHubIcon
             id="icon"
             className="pop-on-hover"
             sx={{ fontSize: 50 }}
-            onClick={(event) =>
+            onClick={() =>
               (window.location.href = "https://github.com/chrisnastro")
+            }
+          />
+          <TwitterIcon
+            id="icon"
+            className="pop-on-hover"
+            sx={{ fontSize: 50 }}
+            onClick={() =>
+              (window.location.href = "https://twitter.com/chrisnastro")
             }
           />
           <EmailIcon
             id="icon"
             className="pop-on-hover"
             sx={{ fontSize: 50 }}
-            onClick={(event) =>
+            onClick={() =>
               (window.location.href = "mailto:cnastro@icloud.com")
             }
           />

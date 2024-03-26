@@ -1,4 +1,3 @@
-// import React from "react";
 import Grid from "@mui/material/Grid";
 import "./Portfolio.css";
 import Card from "@mui/material/Card";
@@ -12,18 +11,18 @@ import { projects } from "../../../projects";
 export function Project({ project }) {
   return (
     <Grid item xs={4} style={{ display: "flex", justifyContent: "center" }}>
-      <Card sx={{ maxWidth: 345 }} style={{ backgroundColor: "floralwhite" }}>
+      <Card sx={{ maxWidth: 345 }} style={{ backgroundColor: "#F5D400" }}>
         <CardMedia
           component="img"
-          alt="displayed projects with associated links"
+          alt="projects with links to site and repo"
           height="140"
-          image={project.imageLink}
+          image={project.image}
         />
         <CardContent>
-          <Typography gutterBottom variant="h5" component="div">
+          <Typography gutterBottom variant="h5" component="div" color="#041e42">
             {project.projectTitle}
           </Typography>
-          <Typography variant="body2" color="text.secondary">
+          <Typography variant="body2" color="#041e42">
             {project.description}
           </Typography>
         </CardContent>
@@ -31,10 +30,10 @@ export function Project({ project }) {
           <Button
             id="portfolio-button"
             className="pop-on-hover"
-            href={project.liveLink}
+            href={project.url}
             size="small"
           >
-            Live URL
+            URL
           </Button>
           <Button
             id="portfolio-button"
@@ -50,7 +49,6 @@ export function Project({ project }) {
   );
 }
 
-// Function/component written to map over projects.js array
 export default function Work() {
   return (
     <div style={{ paddingLeft: "50px", paddingRight: "50px" }}>

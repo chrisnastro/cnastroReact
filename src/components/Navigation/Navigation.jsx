@@ -6,7 +6,6 @@ import "./Navigation.css";
 
 const pages = ["About", "Portfolio", "Contact", "Resume"];
 
-// Function that renders nav links and calls setCurrentPage allowing state to be changed
 function Navigation({ currentPage, setCurrentPage, handleCloseNavMenu }) {
   return (
     <ul
@@ -58,4 +57,6 @@ function Navigation({ currentPage, setCurrentPage, handleCloseNavMenu }) {
     </ul>
   )}
 
+
+  
 export default Navigation;
