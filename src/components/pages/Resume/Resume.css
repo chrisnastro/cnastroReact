@@ -12,7 +12,7 @@
     }
   }
   
-  .pop-on-hover {
+  /* .pop-on-hover {
     display: inline-block;
     vertical-align: middle;
     -webkit-transform: perspective(1px) translateZ(0);
@@ -41,4 +41,4 @@
   #resume-button:hover {
     background-color: #e99d51;
     color: floralwhite;
-  }
+  } */
