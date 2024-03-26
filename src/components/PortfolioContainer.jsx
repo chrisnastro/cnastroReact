@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import About from "./pages/About/About";
 import Contact from "./pages/Contact/Contact";
 import Resume from "./pages/Resume/Resume";

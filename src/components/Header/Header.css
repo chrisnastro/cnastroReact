@@ -1,0 +1,15 @@
+.headerParent {
+    background-color: #041e42;
+    height: "20vh";
+    display: flex;
+    justify-content: space-between;
+    padding: 2vw;
+  }
+  
+  #header-text {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xxx-large;
+    color: whitesmoke;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #55565A;
+  }

@@ -1,6 +1,8 @@
-import React from "react";
+// import React from "react";
 import "./About.css";
 import CardMedia from "@mui/material/CardMedia";
+import hero from "../../../images/hero.jpeg";
+
 
 export default function About() {
     return(

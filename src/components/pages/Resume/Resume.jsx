@@ -1,7 +1,7 @@
-import React from "react";
+// import React from "react";
 import Box from "@mui/material/Box";
 import Button from "@mui/material/Button";
-import PdfFile from "../../../Resumé.pdf";
+import PdfResume from "../../../assets/ResumeChrisNastro.pdf";
 import "./Resume.css";
 
 export default function Resume() {
@@ -9,8 +9,8 @@ export default function Resume() {
       <Box>
         <div>
           <a
-            href={PdfFile}
-            download="Ryan Messett Resumé"
+            href={PdfResume}
+            download="Resume Chris Nastro"
             target="_blank"
             style={{
               display: "flex",
@@ -76,3 +76,4 @@ export default function Resume() {
           </p>
         </div>
       </Box>
+    )}
