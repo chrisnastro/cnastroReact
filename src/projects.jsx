@@ -1,10 +1,12 @@
+import blog from "../../../images/blog.png";
+
 export const projects = [
     {
       projectTitle: "Work Day Scheduler",
       description:
         "Simple calendar application that allows users to stay organized.",
       image:
-        "images/planner.png",
+        {blog},
       url: "https://chrisnastro.github.io/dayplanner/",
       gitHub: "https://github.com/chrisnastro/dayplanner",
     },
