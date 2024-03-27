@@ -35,10 +35,10 @@
 
 #resume-button {
   background-color: #041e42;
-  color: floralwhite;
+  color: #FEF5EF;
 }
 
 #resume-button:hover {
-  background-color: #CACBCE;
-  color: floralwhite;
+  background-color: #D0B717;
+  color: #FEF5EF;
 }

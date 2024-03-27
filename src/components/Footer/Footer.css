@@ -1,37 +1,37 @@
 #icon {
     color: #041e42;
-  }
-  
-  #icon:hover {
-    color: #55565A;
+}
+
+#icon:hover {
+    color: #D0B717;
     cursor: pointer;
-  }
-  
-  @-webkit-keyframes pop-on-hover {
+}
+
+@-webkit-keyframes pop-on-hover {
     50% {
-      -webkit-transform: scale(1.2);
-      transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+        transform: scale(1.2);
     }
-  }
-  
-  @keyframes pop-on-hover {
+}
+
+@keyframes pop-on-hover {
     50% {
-      -webkit-transform: scale(1.2);
-      transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+        transform: scale(1.2);
     }
-  }
-  
-  .pop-on-hover {
+}
+
+.pop-on-hover {
     display: inline-block;
     vertical-align: middle;
     -webkit-transform: perspective(1px) translateZ(0);
     transform: perspective(1px) translateZ(0);
     box-shadow: 0 0 1px rgba(0, 0, 0, 0);
-  }
-  
-  .pop-on-hover:hover,
-  .pop-on-hover:focus,
-  .pop-on-hover:active {
+}
+
+.pop-on-hover:hover,
+.pop-on-hover:focus,
+.pop-on-hover:active {
     -webkit-animation-name: pop-on-hover;
     animation-name: pop-on-hover;
     -webkit-animation-duration: 0.3s;
@@ -40,4 +40,4 @@
     animation-timing-function: linear;
     -webkit-animation-iteration-count: 1;
     animation-iteration-count: 1;
-  }
+}

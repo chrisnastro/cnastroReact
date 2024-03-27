@@ -1,4 +1,3 @@
-// import React from "react";
 import Grid from "@mui/material/Grid";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";
@@ -8,7 +7,7 @@ import "./Footer.css";
 
 const Footer = () => {
   return (
-    <div style={{ paddingTop: "30px", paddingBottom: "30px" }}>
+    <div className="footer-parent" style={{ paddingTop: "30px", paddingBottom: "30px" }}>
       <Grid
         style={{ display: "flex", justifyContent: "center" }}
         container

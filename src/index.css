@@ -2,7 +2,7 @@ body {
   margin: 0;
   box-sizing: border-box;
   min-height: 100vh;
-  background-color: #818288;
+  background: linear-gradient(#FEF5EF, #5AB1BB);
 }
 
 a {

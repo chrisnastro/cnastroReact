@@ -1,9 +1,27 @@
-# React + Vite
+# Chris Nastro React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Table of Contents
+- [Overview](#Overview)
+- [Screenshot](#Screenshot)
+- [Submission](#Submission)
+- [Credit](#Credit)
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# cnastroReact
+Welcome to my React Portfolio!  The Portfolio highlights six of my builds done in the Rutgers Full Stack bootcamp.  Please feel free to use the contact page to get in touch!
+
+## Screenshot
+
+![Screenshot](src/images/screenshot.png)
+
+## Submission
+
+* [Deployed Site](URL HERE)
+
+* [GitHub Repo](https://github.com/chrisnastro/week18hw_NoSQL)
+
+## Credit
+
+Proiciency list, for warnings, and some CSS formatting taken from [Ryan Messett](https://github.com/rmessett15)
+---
+© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
