@@ -18,7 +18,7 @@ Welcome to my React Portfolio!  The Portfolio highlights six of my builds done i
 
 * [Deployed Site](https://chrisnastro.netlify.app/)
 
-* [GitHub Repo](https://github.com/chrisnastro/week18hw_NoSQL)
+* [GitHub Repo](https://github.com/chrisnastro/cnastroReact)
 
 ## Credit
 
