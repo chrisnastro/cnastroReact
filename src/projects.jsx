@@ -13,7 +13,7 @@ export const projects = [
       description:
         "A Star Wars centric blog that utilizes MySQL2, Express, Handlebars, and Sequelize.",
       image:
-        "https://github.com/chrisnastro/cnastroReact/blob/main/src/images/blog.png?raw=true",
+        "https://github.com/chrisnastro/cnastroReact/blob/main/src/images/blog.jpeg?raw=true",
       url: "https://cn-week14-blog-16f692a05666.herokuapp.com/",
       gitHub: "https://github.com/chrisnastro/week14_MVC",
     },
