@@ -4,7 +4,7 @@ export const projects = [
       description:
         "Simple calendar application that allows users to stay organized.",
       image:
-        "src/images/planner.png",
+        "images/planner.png",
       url: "https://chrisnastro.github.io/dayplanner/",
       gitHub: "https://github.com/chrisnastro/dayplanner",
     },
