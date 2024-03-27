@@ -4,7 +4,7 @@ export const projects = [
       description:
         "Simple calendar application that allows users to stay organized.",
       image:
-        "https://github.com/chrisnastro/cnastroReact/blob/main/src/images/planner.png",
+        "https://github.com/chrisnastro/cnastroReact/blob/main/src/images/planner.png?raw=true",
       url: "https://chrisnastro.github.io/dayplanner/",
       gitHub: "https://github.com/chrisnastro/dayplanner",
     },
@@ -22,7 +22,7 @@ export const projects = [
       description:
         "A handy note taking app for everyday use that utilizes Express.",
       image:
-        "src/images/notetaker.jpeg",
+        "https://github.com/chrisnastro/cnastroReact/blob/main/src/images/notetaker.jpeg?raw=true",
       url: "https://cn-week11-note-taker-cca869a80476.herokuapp.com/",
       gitHub: "https://github.com/chrisnastro/week11hw_note_taker",
     },
@@ -31,7 +31,7 @@ export const projects = [
       description:
         "Test your JavaScript coding knowledge! You have 60 seconds to answer all 5 questions.",
       image:
-        "src/images/codequiz.jpeg",
+        "https://github.com/chrisnastro/cnastroReact/blob/main/src/images/codequiz.jpeg?raw=true",
       url: "https://chrisnastro.github.io/week4hw_codequiz/",
       gitHub: "https://github.com/chrisnastro/week4hw_codequiz",
     },
@@ -40,7 +40,7 @@ export const projects = [
       description:
         "Uses third-party and server-side APIs to show the forecast for any city.",
       image:
-        "src/images/weather.png",
+        "https://github.com/chrisnastro/cnastroReact/blob/main/src/images/weather.png?raw=true",
       url: "https://chrisnastro.github.io/weatherdashboard/",
       gitHub: "https://github.com/chrisnastro/weatherdashboard",
     },
@@ -49,7 +49,7 @@ export const projects = [
       description:
         "A simple restaurant locator to help find restaurants in your area.",
       image:
-        "src/images/cuisinelocator.png",
+        "https://github.com/chrisnastro/cnastroReact/blob/main/src/images/cuisinelocator.png?raw=true",
       url: "https://chrisnastro.github.io/first-group-project/",
       gitHub: "https://github.com/chrisnastro/first-group-project",
     },
