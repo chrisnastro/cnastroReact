@@ -22,6 +22,7 @@ Welcome to my React Portfolio!  The Portfolio highlights six of my builds done i
 
 ## Credit
 
-Proiciency list, for warnings, and some CSS formatting taken from [Ryan Messett](https://github.com/rmessett15)
+Proficiency list, form warnings, and some CSS formatting taken from [Ryan Messett](https://github.com/rmessett15)
+
 ---
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.

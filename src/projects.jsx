@@ -1,12 +1,10 @@
-import blog from "../../../images/blog.png";
-
 export const projects = [
     {
       projectTitle: "Work Day Scheduler",
       description:
         "Simple calendar application that allows users to stay organized.",
       image:
-        {blog},
+        "https://github.com/chrisnastro/cnastroReact/blob/main/src/images/planner.png",
       url: "https://chrisnastro.github.io/dayplanner/",
       gitHub: "https://github.com/chrisnastro/dayplanner",
     },
@@ -15,7 +13,7 @@ export const projects = [
       description:
         "A Star Wars centric blog that utilizes MySQL2, Express, Handlebars, and Sequelize.",
       image:
-        "src/images/blog.png",
+        "https://github.com/chrisnastro/cnastroReact/blob/main/src/images/blog.png?raw=true",
       url: "https://cn-week14-blog-16f692a05666.herokuapp.com/",
       gitHub: "https://github.com/chrisnastro/week14_MVC",
     },
